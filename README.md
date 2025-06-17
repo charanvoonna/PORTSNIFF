@@ -5,7 +5,7 @@
 
 ---
 
-![PortSniff Banner](https://chatgpt.com/s/m_685035242b7881919d425755418e6142) 
+![PortSniff Banner](Banner_image.png) 
 
 **PortSniff** is a full-fledged GUI-based **Reconnaissance Tool** for cybersecurity professionals, ethical hackers, and curious learners.  
 From **Port Scanning** to **OS Detection**, PortSniff helps you uncover what’s running behind the IP curtain — just like the pros do.
