@@ -148,6 +148,7 @@ it’s a symbol that you can build anything you imagine if you refuse to quit. �
 ## Demo Video
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZgSUUEII6Bs)
 
+## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)️
 
 ⭐ If you like this project, give it a star on GitHub. It helps more than you know.
