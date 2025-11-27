@@ -145,9 +145,6 @@ it’s a symbol that you can build anything you imagine if you refuse to quit. �
 
 📸 Screenshot (Coming Soon)
 
-
-📌 License
-MIT License – Free to use, learn from, modify, and share.
-Just don’t use it for illegal activities. Stay ethical. 🛡️
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)️
 
 ⭐ If you like this project, give it a star on GitHub. It helps more than you know.
