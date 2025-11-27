@@ -143,11 +143,10 @@ PortSniff is more than just a tool —
 it’s a symbol that you can build anything you imagine if you refuse to quit. 💯
 
 
- ## Demo Video
-▶️ **[Watch the PortSniff Demo on YouTube](https://www.youtube.com/watch?v=ZgSUUEII6Bs)**
-
-
 📸 Screenshot : https://github.com/charanvoonna/PORTSNIFF/blob/main/WhatsApp%20Image%202025-10-30%20at%2015.34.23_8e58a4db.jpg?raw=true
+
+## Demo Video
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ZgSUUEII6Bs)
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)️
 
