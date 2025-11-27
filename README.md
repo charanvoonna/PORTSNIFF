@@ -143,7 +143,7 @@ PortSniff is more than just a tool —
 it’s a symbol that you can build anything you imagine if you refuse to quit. 💯
 
 
-📸 Screenshot (Coming Soon)
+📸 Screenshot : https://github.com/charanvoonna/PORTSNIFF/blob/main/WhatsApp%20Image%202025-10-30%20at%2015.34.23_8e58a4db.jpg?raw=true
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)️
 
